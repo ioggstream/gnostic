@@ -1,4 +1,4 @@
-module github.com/googleapis/gnostic
+module github.com/ioggstream/gnostic
 
 go 1.12
 
